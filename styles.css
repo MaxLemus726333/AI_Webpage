@@ -1,0 +1,35 @@
+/* Feature Cards background */
+.feature-card-bg {
+    background: linear-gradient(135deg, #0a2342 0%, #000000 100%);
+    color: #fff;
+}
+/* Reviews Carousel background */
+.reviews-bg {
+    background: linear-gradient(135deg, #0a2342 0%, #000000 100%);
+    color: #fff;
+    border-radius: 12px;
+    padding: 32px 0;
+}
+body {
+    background-color: #f8f9fa;
+}
+.hero {
+    background: linear-gradient(135deg, #0a2342 0%, #000000 100%);
+    color: #fff;
+    padding: 60px 0;
+    text-align: center;
+}
+.feature-icon {
+    font-size: 2rem;
+    color: #fff;
+}
+.card {
+    border: none;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.05);
+}
+footer {
+    background: linear-gradient(135deg, #0a2342 0%, #000000 100%);
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
